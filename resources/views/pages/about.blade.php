@@ -14,7 +14,7 @@
                                 <h1 class="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">coops coin is a cryptocurrency fan club</h1>
                                 <div class="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
                                 <p>
-                                This is a simple token about a Jewish girl that won't pay the people who worked for her..
+                                This is a simple token about a Canadian girl that won't pay the people who worked for her..
                                 </p><p>
                                 <a class="text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500" href="https://drewroberts/.com">Drew Roberts</a> met <a class="text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500" href="https://x.com/coopsnicoops">coops</a> and 3 of her frens Friday night at NFT.NYC and they were having a good time. They had previously spent hours talking in X Spaces, so it was kinda like meeting an old fren. coops said she wanted to launch a shitcoin, so Drew agreed and said they would use <a class=" text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500" href="https://github.com/roberts/standard">his contract standard</a> and he would waive his upfront dev fees.
                                 </p><p>
